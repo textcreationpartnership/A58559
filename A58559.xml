@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act for a solemn anniversary thanksgiving, for His Majesties restauration to the royal government of His kingdoms At Edinburgh the thirteenth of May, 1661.</title>
+            <title>Laws, etc.</title>
+            <author>Scotland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58559</idno>
+            <idno type="STC">Wing S1086</idno>
+            <idno type="STC">ESTC R215620</idno>
+            <idno type="EEBO-CITATION">99827436</idno>
+            <idno type="PROQUEST">99827436</idno>
+            <idno type="VID">31854</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58559)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31854)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1858:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act for a solemn anniversary thanksgiving, for His Majesties restauration to the royal government of His kingdoms At Edinburgh the thirteenth of May, 1661.</title>
+                  <title>Laws, etc.</title>
+                  <author>Scotland.</author>
+                  <author>Scotland. Convention of Estates. aut</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by Evan Tyler, printer to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: A. Primerose, Cls. Reg.</note>
+                  <note>Steele notation: Slavery as Majesties.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Scotland --  History --  1660-1688 --  Early works to 1800.</term>
+               <term>Scotland --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:31854:1"/>
+            <!-- PDF PAGE 10 -->
+            <head>
+               <figure>
+                  <p>C R</p>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>ACT For a Solemn Anniverſary Thankſgiving, for His Majeſties Reſtauration to the Royal Government of His Kingdoms.</head>
+            <opener>
+               <dateline>At EDINB<g ref="char:V">Ʋ</g>RGH <date>the thirteenth of May, 1661.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Eſtates of Parliament of the Kingdom of <hi>Scotland,</hi> taking to their conſideration the ſad Condition, Slavery and Bondage, this ancient Kingdom hath groaned under, during theſe twenty three years Troubles: In which, under the ſpecious pretences of Reformation, a publick Rebellion hath been by the treachery of ſome, and miſ-perſwaſion of others, violently carried on againſt Sacred Authority, to the ruine and deſtruction, ſo far as was poſſible, of Religion, the Kings <hi>Majeſty</hi> and His Royal Government, the Laws, Liberties and Proper<g ref="char:EOLhyphen"/>ty of the People, and all the publick and private Intereſts of the Kingdom; So that Religion it ſelf, which holds the right of Kings to be Sacred, hath been proſtitute for the warrand of all theſe treaſonable invaſions made upon the Royal Autho<g ref="char:EOLhyphen"/>rity, and diſloyal limitations put upon the Alleagiance of the Subjects. And hath it not alſo been pretended unto, for the warrand of all thoſe vile and bloody Murthers, which in high contempt of Almighty God and of His Majeſties Au<g ref="char:EOLhyphen"/>thority and Laws, were under colour of Iuſtice committed upon His <hi>Majeſties</hi> good Subjects, meerly for the diſ<g ref="char:EOLhyphen"/>charge of their Duty to GOD and Loyalty to the King? Hath not that Royal Government, under whoſe Protection this Nation hath, to the envy of the World, been ſo famous for many ages, been of late trode under foot, and new Go<g ref="char:EOLhyphen"/>vernments and Governours eſtabliſhed and kept up without His <hi>Majeſties</hi> Authority, and againſt His expreſſe Com<g ref="char:EOLhyphen"/>mands? Hath not Law, which is the Birth-right and Inheritance of the Subject and the ſecurity of their lives and for<g ref="char:EOLhyphen"/>tunes, been laid in the duſt, and new and unjuſt Edicts and Orders paſt and publiſhed, for ſubjecting both life and fortune, and what elſe was dear unto any of His <hi>Majeſties</hi> good Subjects, to the Cruel and Ambitious Luſts of ſome uſurping Rulers? Hath not Religion and Loyalty been the only objects of their Rapine and Cruelty? And hath not their new and arbitrary Exactions and Burdens upon the People, exceeded in one moneth what ever had been formerly in many years paid to any of the Kings of this Kingdom? And when the beſt of men and the moſt excellent of the Kings of the earth, had in an unuſual way of confidence rendred His Perſon to the truſt and Loyalty of his Native Subjects, was not the ſecurity of Religion pretended unto by ſome, who then governed in Church and State, for the ground of that baſe (and never enough to be abhorred) tranſaction, in leaving ſuch a Prince their Native and Dread Soveraign, to the will of theſe who were in open Rebellion, and for the time had their ſwords in their hands againſt him; And that when by theſe and many ſuch like undutifull carriages the Kings <hi>Majeſty</hi> was removed from His Kingdoms, the foundations of this ancient and well conſtitute Government was overturned, the Li<g ref="char:EOLhyphen"/>berties and Property of the people inverted; And this Kingdom expoſed to be Captives and Slaves to Strangers, and no<g ref="char:EOLhyphen"/>thing left unto them but the ſad meditation of their increaſing miſeries, and the bitter remembrance of their by-paſt diſ<g ref="char:EOLhyphen"/>loyalties? Yet even then it pleaſed Almighty God to compaſſionat their low condition, and by the power of His own Right-hand, moſt miraculouſly to reſtore the Kings moſt Sacred <hi>Majeſty,</hi> to the Royal Government of His Kingdoms; And thereby to redeem this Kingdom from its former Slavery and Bondage, and to reſtore it to its ancient and juſt Pri<g ref="char:EOLhyphen"/>viledges and Freedom. And the Kings <hi>Majeſty,</hi> acknowledging, with all humility and thankfulneſſe, the goodneſſe, wiſ<g ref="char:EOLhyphen"/>dom and power of God, in this Signal Act of His mercy to him and his people, Doth, with advice and conſent of <unclear>his</unclear> Eſtates of Parliament, Statute and Ordain, That in all time coming there be an <unclear>Solemn</unclear> y<gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ly Commemoration of the ſame; And for that end, the twenty ninth day of <hi>
+                  <unclear>May</unclear>
+               </hi> which <unclear>day</unclear> God Almighty hath ſpecially honoured and rendered au<g ref="char:EOLhyphen"/>ſpicious to this Kingdom, both by His <hi>Majeſties</hi> Royal Birth, and by His bleſſed Reſtauration to His Government) be forever ſet apart as a holy day unto the Lord, and that in all the Churches of the Kingdom, it be imployed in publick Prayers, Preaching, Thankſgiving, and Praiſes to God, for ſo tranſcendent Mercies: And that all Trade, Merchandize, Work, Handylabour, and other ordinary imployments be forborn, and the remaining part of the day ſpent in ſuch lawfull divertiſements as are ſuteable to ſo Solemn an occaſion. And it is hereby recommended to all Miniſters of the Goſpel, and to all Sheriffs, Iuſtices of Peace, and other publick Miniſters in the ſeveral Counties, and to all Magiſtrates with<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Burghs, to be carefull, that for this preſent year, and in all time coming, the twenty ninth day of <hi>May,</hi> be accordingly kept and obſerved within their ſeveral Iuriſdictions. And for the ſpeedier and more full intimation hereof to all His <hi>Majeſties</hi> Subjects, it is appointed thir Preſents be printed, and publiſhed at all the Mercat Croſſes of the Royal Burroughs.</p>
+            <closer>
+               <signed>A. PRIMEROSE, Cls. Reg.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent Majeſty, 1661.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
